@@ -1,0 +1,22 @@
+{
+  "navigationBarTitleText": "音乐播放器",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "menu",
+        "float": "left"
+      },
+      {
+        "type": "none",
+        "text": "",
+        "fontSrc": "/static/uni.ttf"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "player": "/components/player/player"
+  }
+}

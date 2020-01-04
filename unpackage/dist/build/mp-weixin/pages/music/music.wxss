@@ -1,0 +1,44 @@
+
+.big {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+}
+.detail {
+	margin-bottom: 200rpx;
+	text-align: center;
+}
+.control {
+	position: absolute;
+	bottom: 150rpx;
+	width: 100%;
+}
+.detail ._img {
+	border-radius: 50%;
+}
+.slidere {
+	width: 80%;
+}
+.jindu {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.jindu view {
+	line-height: 2.8;
+}
+.btn {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+}
+

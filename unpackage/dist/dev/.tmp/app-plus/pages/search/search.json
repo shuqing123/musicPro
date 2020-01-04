@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "cu-custom": "/components/cu-custom/cu-custom",
+    "uni-tag": "/components/uni-tag/uni-tag",
+    "player": "/components/player/player"
+  }
+}

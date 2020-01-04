@@ -1,0 +1,1 @@
+<view bind:__l="__l"><view class="_ul"><block wx:for="{{history}}" wx:for-item="item" wx:for-index="i" wx:key="i"><view data-event-opts="{{[['tap',[['pl',['$0'],[[['history','',i]]]]]]]}}" bindtap="__e" class="_li">{{item.detail.songs[0].name}}</view></block></view></view>

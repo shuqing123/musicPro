@@ -1,0 +1,15 @@
+{
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "大家都在搜",
+      "align": "left",
+      "autoFocus": true
+    }
+  },
+  "usingComponents": {
+    "uni-tag": "/components/uni-tag/uni-tag",
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "player": "/components/player/player"
+  }
+}

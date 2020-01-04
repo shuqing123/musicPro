@@ -1,0 +1,93 @@
+{
+  "id": "1556032",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "562697",
+      "name": "Play",
+      "font_class": "play",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "647470",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "911013",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1196961",
+      "name": "next",
+      "font_class": "next",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1433783",
+      "name": "loop",
+      "font_class": "loop",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "1842121",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2154283",
+      "name": "单曲循环_32",
+      "font_class": "danquxunhuan",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "4472465",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "5326812",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5755910",
+      "name": "sort",
+      "font_class": "sort",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6900891",
+      "name": "delete",
+      "font_class": "delete1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10564323",
+      "name": "loop",
+      "font_class": "loop1",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    }
+  ]
+}
